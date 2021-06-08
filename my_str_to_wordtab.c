@@ -1,5 +1,5 @@
 /*
-** my_str_to_wordtab.c for my_str_to_wordtab in /home/melvyn/tek/tek1/SBMLparser
+** my_str_to_wordtab.c for my_str_to_wordtab in /home/melvyn/etna/covind_m/
 ** 
 ** Made by COVINDARASSOU Melvyn
 ** Login   <covind_m@etna-alternance.net>
