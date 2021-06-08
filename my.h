@@ -22,7 +22,7 @@ char	*epurstr(char *str);
 char	*change_str(char *str);
 int	count_word(char *str);
 int	countchar(char *str);
-char	**my_strtowordtab_synthesis(char *str);
+char	**my_str_to_wordtab(char *str);
 int	main(int argc, char **argv);
 
 #endif		/* !_MY_H_ */
