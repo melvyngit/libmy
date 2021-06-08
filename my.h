@@ -1,5 +1,5 @@
 /*
-** my.h for my in /home/melvyn/tek/tek1/SBMLparser
+** my.h for my in /home/melvyn/etna/covind_m/
 ** 
 ** Made by COVINDARASSOU Melvyn
 ** Login   <covind_m@etna-alternance.net>
