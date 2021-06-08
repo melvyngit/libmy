@@ -1,5 +1,5 @@
 ##
-## Makefile<etna> for Makefile in /home/melvyn/tek/tek1/rendu/CPE/CPE_2015_BSQ
+## Makefile for Makefile in /home/melvyn/etna/covind_m/
 ## 
 ## Made by COVINDARASSOU Melvyn
 ## Login   <covind_m@etna-alternance.net>
